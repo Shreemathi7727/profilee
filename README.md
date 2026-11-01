@@ -5,7 +5,7 @@ This website is designed to provide a simple and professional overview of my tec
 
 ## 🌐 Live Portfolio
 
-[Visit My Portfolio]([https://77274832.github.io/profilee/](https://shreemathi7727.github.io/profilee/))
+[Visit My Portfolio](https://shreemathi7727.github.io/profilee/)
 
 ## 🛠️ Technologies Used
 
